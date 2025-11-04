@@ -7,11 +7,12 @@
 ---
 
 ### 👨🏻‍💻 About Me
-- 🎓 Computer Science student who loves solving real-world problems with code.  
+- 🎓 Computer Science student who enjoys solving real-world problems with clean and scalable code.  
 - 💻 Specialized in **Back-End Development using .NET Core & C#**.  
-- 🌱 Currently learning more about **T-SQL**, **Entity Framework**, and **API Design**.  
-- ⚡ In my free time, I solve challenges on LeetCode and read about software architecture.  
-- 🤝 Open to collaboration on clean, meaningful projects.
+- 🧠 Worked with multiple architectural patterns including **Onion Architecture**, **Clean Architecture**, **Vertical Slicing**, and **Microservices**.  
+- 🌱 Currently learning more about **T-SQL**, **Entity Framework**, and advanced **API Design**.  
+- ⚡ In my free time, I solve problems on **LeetCode** and read about **software architecture & system design**.  
+- 🤝 Always open to collaborate on impactful, high-quality projects.
 
 ---
 
