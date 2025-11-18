@@ -7,7 +7,7 @@
 ---
 
 ### 👨🏻‍💻 About Me
-- 🎓 Computer Science Engineer who enjoys solving real-world problems with clean and scalable code.  
+- 🎓 Software Engineer who enjoys solving real-world problems with clean and scalable code.  
 - 💻 Specialized in **Back-End Development using .NET Core & C#**.  
 - 🧠 Worked with multiple architectural patterns including **Onion Architecture**, **Clean Architecture**, **Vertical Slicing**, and **Microservices**.  
 - 🌱 Currently learning more about **T-SQL**, **Entity Framework**, and advanced **API Design**.  
