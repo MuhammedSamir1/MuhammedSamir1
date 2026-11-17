@@ -261,7 +261,7 @@ Admin panel for the consulting platform with **real-time updates** and charts.
 
 ## 💼 Experience
 
-**Backend Developer · [ElectroPi](https://electropi.ai)** &nbsp;`Oct 2025 – Present · Cairo`
+**Backend Developer · [ElectroPi](https://electropi.ai)** &nbsp;`Oct 2024 – Present · Cairo`
 - Building and shipping six products on .NET 10 and PostgreSQL ([see above](#-work-at-electropi))
 - Integrated AI meeting bots, live transcription and AI analysis into an approval workflow, with real-time updates over SignalR
 - Built multi-tenant SaaS with a database per tenant, Keycloak auth and tenant resolution from JWT claims
