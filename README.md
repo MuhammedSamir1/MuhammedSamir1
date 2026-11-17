@@ -122,9 +122,8 @@ User and tenant management for the Tx360 platform, plus the **assessment content
 
 - ASP.NET Identity with refresh-token rotation
 - Scores computed at runtime, never stored
-- Integration tests with Testcontainers
 
-<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
 </td>
 </tr>
@@ -137,10 +136,9 @@ User and tenant management for the Tx360 platform, plus the **assessment content
 Arabic / English REST API on **Minimal APIs**, Vertical Slice with Commands, Queries and Orchestrators.
 
 - Identity + JWT, MailKit email, QuestPDF reports
-- Serilog, Sentry and Prometheus metrics
-- Docker, Jenkins CI/CD
+- Serilog logging and Docker
 
-<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -152,7 +150,7 @@ Admin panel for the consulting platform with **real-time updates** and charts.
 
 - Refine + Ant Design
 - SignalR live updates, Recharts dashboards
-- Vitest and Playwright tests
+- Playwright tests
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Refine-14141F?style=flat-square" /> <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
@@ -217,22 +215,16 @@ Admin panel for the consulting platform with **real-time updates** and charts.
   <img src="https://img.shields.io/badge/Live_Transcription-6C63FF?style=for-the-badge" />
 </p>
 
-<h3 align="center">Cloud, DevOps & Observability</h3>
+<h3 align="center">DevOps & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,jenkins,grafana,prometheus,aws,git,postman&theme=dark" /><br/><br/>
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,git,grafana,postman&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/Serilog-1E1E1E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
 </p>
 
 <h3 align="center">Testing</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Moq-3b2f80?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NSubstitute-3b2f80?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FluentAssertions-3b2f80?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
@@ -262,7 +254,7 @@ Admin panel for the consulting platform with **real-time updates** and charts.
 - Building and shipping six products on .NET 10 and PostgreSQL ([see above](#-work-at-electropi))
 - Integrated AI meeting bots, live transcription and AI analysis into an approval workflow, with real-time updates over SignalR
 - Built multi-tenant SaaS with a database per tenant, Keycloak auth and tenant resolution from JWT claims
-- Built Kafka and RabbitMQ consumers, background workers, and CI/CD with GitHub Actions and Jenkins
+- Built Kafka and RabbitMQ consumers, and background workers
 
 **Backend Developer Intern · Elevate Tech** &nbsp;`Feb 2026 – Aug 2026 · Remote`
 - Built systems in a Microservices / Modular Monolith environment
