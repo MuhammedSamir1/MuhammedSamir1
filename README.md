@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B85FF&center=true&vCenter=true&width=640&lines=Building+production+APIs+with+ASP.NET+Core;Multi-tenant+SaaS+%C2%B7+database+per+tenant;AI+meeting+intelligence+%C2%B7+live+transcripts;Arabic-first+products+for+the+Gulf+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B85FF&center=true&vCenter=true&width=640&lines=Building+production+APIs+with+ASP.NET+Core;Multi-tenant+SaaS+%C2%B7+database+per+tenant;AI+meeting+intelligence+%C2%B7+live+transcripts;Arabic-first+products+for+the+Gulf" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 <td width="52%" valign="top">
 
 - 🏢 **Backend Developer at [ElectroPi](https://electropi.ai)**, shipping six products end to end
-- 🇸🇦 Building **Arabic-first** platforms for Saudi and Gulf clients
+- 🌍 Building **Arabic-first** platforms for Saudi and Gulf clients
 - 🧠 AI meeting intelligence, hiring, strategy SaaS and consulting platforms
 - 🏗️ Clean, Vertical Slice and Onion architecture, CQRS, DDD
 - 🛡️ Systems that recover on their own: retries, reconciliation jobs, clear failure states
