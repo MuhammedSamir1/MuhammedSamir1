@@ -180,7 +180,7 @@ Admin panel for the consulting platform with **real-time updates** and charts.
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend <sub>(familiar)</sub></h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,mui&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
@@ -197,7 +197,6 @@ Admin panel for the consulting platform with **real-time updates** and charts.
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 <h3 align="center">Auth & Integrations</h3>
@@ -212,20 +211,18 @@ Admin panel for the consulting platform with **real-time updates** and charts.
   <img src="https://img.shields.io/badge/MinIO_%2F_S3-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
 </p>
 
-<h3 align="center">AI</h3>
+<h3 align="center">AI Integrations</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Live_Transcription-6C63FF?style=for-the-badge" />
 </p>
 
 <h3 align="center">Cloud, DevOps & Observability</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,jenkins,grafana,prometheus,aws,gcp,azure,git,postman&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,jenkins,grafana,prometheus,aws,git,postman&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Serilog-1E1E1E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
 </p>
 
 <h3 align="center">Testing</h3>
@@ -269,7 +266,7 @@ Admin panel for the consulting platform with **real-time updates** and charts.
 
 **Backend Developer Intern · Elevate Tech** &nbsp;`Feb 2026 – Present · Remote`
 - Building systems in a Microservices / Modular Monolith environment
-- Working with RabbitMQ, Azure Service Bus, Redis, and CI/CD pipelines
+- Working with RabbitMQ, Redis, and CI/CD pipelines
 - Agile/Scrum workflows with sprint planning and Jira
 
 **Backend Developer Intern · UpSkilling Eg** &nbsp;`Feb 2025 – Oct 2025 · Remote`
