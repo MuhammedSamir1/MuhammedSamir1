@@ -264,9 +264,9 @@ Admin panel for the consulting platform with **real-time updates** and charts.
 - Built multi-tenant SaaS with a database per tenant, Keycloak auth and tenant resolution from JWT claims
 - Built Kafka and RabbitMQ consumers, background workers, and CI/CD with GitHub Actions and Jenkins
 
-**Backend Developer Intern · Elevate Tech** &nbsp;`Feb 2026 – Present · Remote`
-- Building systems in a Microservices / Modular Monolith environment
-- Working with RabbitMQ, Redis, and CI/CD pipelines
+**Backend Developer Intern · Elevate Tech** &nbsp;`Feb 2026 – Aug 2026 · Remote`
+- Built systems in a Microservices / Modular Monolith environment
+- Worked with RabbitMQ, Redis, and CI/CD pipelines
 - Agile/Scrum workflows with sprint planning and Jira
 
 **Backend Developer Intern · UpSkilling Eg** &nbsp;`Feb 2025 – Oct 2025 · Remote`
